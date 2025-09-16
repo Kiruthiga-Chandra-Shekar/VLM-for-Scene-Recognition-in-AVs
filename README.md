@@ -11,7 +11,8 @@ The image shows a heatmap of Cosine Similarity between Text Embeddings when the 
 <img width="596" height="393" alt="image" src="https://github.com/user-attachments/assets/d02c94d4-62ff-4b3e-badd-1f1c9f83db09" />
 
 # Plot Images
-This utility function plots images with their labels
+This utility function plots images with their labels.
+
 <img width="629" height="148" alt="image" src="https://github.com/user-attachments/assets/e7dba844-5773-4c41-b12c-776ec403ea21" />
 
 # Cosine Similarity between Image Embeddings
